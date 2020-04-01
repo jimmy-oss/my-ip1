@@ -1,6 +1,6 @@
 # DESCRIPTION ABOUT THE PROJECT
 <br>The project shown above has been supported by css and html tags inorder to function well.</br>
-there are others which are under the html and css such as buttons.Inorder to style and function well
+there are others which support the project such as buttons which makes the project stylish.
 # THE PROJECT LANGUAGE
 <br>The project is a html program assisted by technologies such as (css) which is cascading styling sheet in the setup.</br>
 # BUGS AND FUNCTIONALITY
