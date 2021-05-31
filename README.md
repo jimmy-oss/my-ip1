@@ -29,4 +29,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 # THE AUTHOR OF THE PROJECT
-<a href="https:https://www.Github.com/html/">James Wanyutu</a></br>
+<a href="https:https://www.Github.com/html/">Jimmy-oss</a></br>
